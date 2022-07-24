@@ -1,3 +1,30 @@
+## Content of Repository
+
+ 
+|File|Content  |
+|--|--|
+| step.txt |Solution of the given problem |
+|documentationStep.png| Screenshot of terminal while solving the given problem|
+|Folder: Nauval| Folder and files that were created after solving the given problem|
+
+**Solution of the given problem**
+
+    mkdir Nauval
+    cd Nauval
+    mkdir sekolah
+    mkdir kerja
+    cd sekolah
+    touch ijazah.txt
+    nano ijazah.txt
+    cat ijazah.txt
+    touch portfolio.txt
+    nano portfolio.txt
+    cd ..
+    cd kerja
+    touch cv.txt
+    nano cv.txt
+    cat cv.txt
+
 ## About Repository
 
 This repository is for Samsung Innovation Campus 3 Technical Assignment Week 7: Linux 101
@@ -43,12 +70,3 @@ Here's the problem:
 >6.  Pada tahap ini kamu lupa jika sebenarnya  _file_  `portfolio.txt`  serahusnya tidak berada pada  _folder_  `sekolah`, jadi kamu harus  **memindahkannya**  ke dalam folder  `kerja`
 
 Copied from: [SIC Stage 3 Technical Assignment Week 7](https://github.com/impactbyte/full-stack-web-assignments/tree/master/01-Unix-Command-Line#specs)
-
-## Content of Repository
-
- 
-|File|Content  |
-|--|--|
-| step.txt |Solution of the given problem |
-|documentationStep.png| Screenshot of terminal while solving the given problem|
-|Folder: Nauval| Folder and files that were created after solving the given problem|
