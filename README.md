@@ -24,6 +24,7 @@
     touch cv.txt
     nano cv.txt
     cat cv.txt
+    mv ../sekolah/portfolio.txt .
     
 **Screenshot of the Terminal**
 ![wsl on Windows Terminal](https://raw.githubusercontent.com/MuhammadNauvalDwiAfandi/sic-ta-w7/master/documentationStep.png)
